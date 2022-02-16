@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: da35e008-3cb1-1d51-fbff-ca7cc8a6b8e7
 ---
@@ -59,4 +61,4 @@ Says Cuthbert, "For many of us, modern musicology is less about spending time in
 The Glaser Codex: A Manuscript of Liturgical Chant at MIT
 ---------------------------------------------------------
 
-The [Glaser Codex](http://web.mit.edu/cuthbert/www/glaser/) comprises the remains of an approximately 107 folio (214 page) manuscript from the 15th and 16th century. This website contains a selection of folio images, along with 21M.220 student scholarly analysis of these folios.
+The [Glaser Codex](http://web.mit.edu/cuthbert/www/glaser/) comprises the remains of an approximately 107 folio (214 page) manuscript from the 15{{< sup "th" >}} and 16{{< sup "th" >}} century. This website contains a selection of folio images, along with 21M.220 student scholarly analysis of these folios.

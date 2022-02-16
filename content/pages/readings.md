@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: da4d0d00-38fc-fed9-6cb1-2f755f976b49
 ---
@@ -317,7 +320,7 @@ Discussion: How to revise a research paper
 16
 {{< tdclose >}}
 {{< tdopen >}}
-16th century vocal and instrumental music
+16{{< sup "th" >}} century vocal and instrumental music
 {{< tdclose >}}
 {{< tdopen >}}
 \[W&S\]

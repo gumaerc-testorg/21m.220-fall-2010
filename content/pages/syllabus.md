@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 39ab3659-c3f3-39f9-6267-3d357b400cbf
 ---
@@ -391,7 +393,7 @@ Student presentations
 16
 {{< tdclose >}}
 {{< tdopen >}}
-16th century vocal and instrumental music
+16{{< sup "th" >}} century vocal and instrumental music
 {{< tdclose >}}
 {{< tdopen >}}
 Second paper due

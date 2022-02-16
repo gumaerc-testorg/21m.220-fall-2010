@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Listening and Scores
 uid: 6462bea0-bfdc-355e-7d12-e7993b646bad
 ---
@@ -499,7 +501,7 @@ Giovanni Pierluigi da Palestrina, [_Missa Tu es Petrus_.](http://www2.cpdl.org/w
 16
 {{< tdclose >}}
 {{< tdopen >}}
-16th century vocal and instrumental music
+16{{< sup "th" >}} century vocal and instrumental music
 {{< tdclose >}}
 {{< tdopen >}}
 
