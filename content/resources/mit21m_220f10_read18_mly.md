@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: da4d0d00-38fc-fed9-6cb1-2f755f976b49
 resourcetype: Document
 title: MIT21M_220F10_read18_mly.pdf
 uid: ac6849ca-33ed-275d-b090-31ae709a9263

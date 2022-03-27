@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e964c0a2-c177-530b-eeea-6d9fa004f14c
 resourcetype: Document
 title: MIT21M_220F10_list_ravens.pdf
 uid: 0bfbfbf4-9444-05a5-0246-4ba623235b40

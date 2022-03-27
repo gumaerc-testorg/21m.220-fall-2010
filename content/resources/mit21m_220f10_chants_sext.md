@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 39ab3659-c3f3-39f9-6267-3d357b400cbf
 resourcetype: Document
 title: MIT21M_220F10_chants_sext.pdf
 uid: b6548c2b-2708-ba29-0ba2-11cd37dfaa23

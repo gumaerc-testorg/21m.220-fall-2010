@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 14e729ee-ca5b-f0a8-6acb-afa0ae79be12
 resourcetype: Document
 title: MIT21M_220F10_assn4.pdf
 uid: 94ec4910-4dc7-a434-6974-6e176ce3499e

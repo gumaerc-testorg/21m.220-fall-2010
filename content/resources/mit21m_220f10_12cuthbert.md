@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: da4d0d00-38fc-fed9-6cb1-2f755f976b49
 resourcetype: Document
 title: MIT21M_220F10_12cuthbert.pdf
 uid: 87b64865-c529-0b28-d137-b24cfac29110

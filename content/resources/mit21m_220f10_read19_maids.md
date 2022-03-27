@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: da4d0d00-38fc-fed9-6cb1-2f755f976b49
 resourcetype: Document
 title: MIT21M_220F10_read19_maids.pdf
 uid: a2bbbf13-d38f-20e4-f0c1-fc60b918e575

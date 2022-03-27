@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e964c0a2-c177-530b-eeea-6d9fa004f14c
 resourcetype: Document
 title: MIT21M_220F10_lst_estmpie.pdf
 uid: 6a503149-e219-113a-db41-cd021f5119cc

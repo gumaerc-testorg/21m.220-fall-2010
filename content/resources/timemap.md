@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: da35e008-3cb1-1d51-fbff-ca7cc8a6b8e7
 resourcetype: Image
 title: timemap.jpg
 uid: 1a9cf99b-dc22-2df7-3299-1e17bed81494

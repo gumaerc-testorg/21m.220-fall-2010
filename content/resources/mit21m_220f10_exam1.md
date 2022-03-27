@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 8a9b5520-d8d7-f738-f2da-ae843685ccca
 resourcetype: Document
 title: MIT21M_220F10_exam1.pdf
 uid: d8b270f6-df43-f6f5-a4a6-a1552ee1a990
