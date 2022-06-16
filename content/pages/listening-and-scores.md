@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on recordings and scores used for the
+  class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Listening and Scores
@@ -62,7 +64,7 @@ Introduction to Early Music and to Chant
  
 {{< tdclose >}}
 {{< tdopen >}}
-Feria Secunda Ad Sextam (Office of Sext) ([PDF](/courses/music-and-theater-arts/21m-220-early-music-fall-2010/Syllabus/MIT21M_220F10_chants_sext.pdf))
+Feria Secunda Ad Sextam (Office of Sext) ({{% resource_link b6548c2b-2708-ba29-0ba2-11cd37dfaa23 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -463,7 +465,7 @@ Discussion: How to revise a research paper
 {{< tdopen >}}
 Isaac, Heinrich. "Innsbruck, ich muss dich lassen."
 
-*   Finale (MIDI) realization of Tenorlied version by Michael Scott Cuthbert ([MP3]({{< baseurl >}}/resources/lec15_isaac_innsbruck_midi))
+*   Finale (MIDI) realization of Tenorlied version by Michael Scott Cuthbert ({{% resource_link f4e6755d-f311-c438-e040-979caf0ddaba "MP3" %}})
 *   Janssens, Guy, and Laudantes Consort. _The Golden Age of European Polyphony_. Cypres, 2006. Disc 11, Track 11.
 
 Luther, Martin. "Ein feste Burg ist unser Gott."
@@ -607,7 +609,7 @@ Morley, Thomas. "April is in my Mistress' Face." Paul Hillier & Hilliard Ensembl
 {{< tdopen >}}
 
 
-Byrd, William. "Though Amaryllis Dance in Green." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit21m_220f10_list_byrd))
+Byrd, William. "Though Amaryllis Dance in Green." ({{% resource_link ffb033bd-e3ce-197d-ad9c-8010a149a196 "PDF - 1.1MB" %}})
 
 Byrd, William. [_O Lord, Make thy Servant, Elizabeth_](http://www2.cpdl.org/wiki/index.php/O_Lord,_make_thy_servant_Elizabeth_(William_Byrd)).
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 This sample video lecture covers 16th-century vocal and instrumental music, from Martin Luther's _Psalms_ to the early madrigal. It includes works by composers Giovanni Palestrina, Michael Praetorius, and Thomas Weelkes, and an in-class demonstration of the chant _Office of Sext_.
+
+
+

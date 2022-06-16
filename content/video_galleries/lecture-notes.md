@@ -1,5 +1,8 @@
 ---
 content_type: video_gallery
+description: This section presents outlines for each lecture, and selected handouts.
+  It also presents a full-length video of Lecture 16, as an illustration of the instructional
+  methods used in class.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Notes
@@ -51,7 +54,7 @@ HANDOUTS
 Introduction to Early Music and to Chant
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec01))
+({{% resource_link 6fc0d0e6-2296-b2f2-f7d1-ad90901bc269 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -66,7 +69,7 @@ Introduction to Early Music and to Chant
 Antiquity to Chant
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec02))
+({{% resource_link c8ed7e3b-9d55-47d0-f8b0-f528746ce20f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -81,10 +84,10 @@ Antiquity to Chant
 The Purpose and Types of Chant
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec03))
+({{% resource_link 5202edc9-e01e-9670-a4a5-c5ba4c471da9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture slides ([PDF - 1.6MB]({{< baseurl >}}/resources/mit21m_220f10_lec03_slides))  
+Lecture slides ({{% resource_link ab8c2533-fd65-6082-3ec4-49bdbf8b7f45 "PDF - 1.6MB" %}})  
 
 {{< tdclose >}}
 
@@ -97,7 +100,7 @@ Lecture slides ([PDF - 1.6MB]({{< baseurl >}}/resources/mit21m_220f10_lec03_slid
 Diversity and Development in Chant
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec04))
+({{% resource_link 749a815c-b4eb-6a7b-25f5-3eb41444dc7e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Byzantine ecphonetic notation. Greece, ca. 1100. Schøyen Collection MS 2033. ([JPG](http://www.schoyencollection.com/music-notation/7-4-byzatine-notation/ecophonetic-bible-ms-2033))
@@ -122,7 +125,7 @@ Vedic numeric hand gesture music notation. India, 1583. Schøyen Collection 5292
 Secular Monophony in the Middle Ages
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec05))
+({{% resource_link 628a4a5e-af65-d801-b4a1-b2b64cf27fdb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -137,10 +140,10 @@ Secular Monophony in the Middle Ages
 The Birth of Polyphony
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec06))
+({{% resource_link ded8ee7c-ddc1-d348-4837-e368b9caa78a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture slides ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec06_slides))
+Lecture slides ({{% resource_link cd1157cf-7653-e95f-15e3-c87b641f4a0c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +155,7 @@ Lecture slides ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec06_slides))
 Polyphony (and some monophony) in the 13th and early 14th century
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec07))
+({{% resource_link 25c3ebc9-86e9-d14d-e356-60f9606afa9d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -167,10 +170,10 @@ Polyphony (and some monophony) in the 13th and early 14th century
 _Fauvel_, Vitry, Machaut and Music in France before 1370
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec08))
+({{% resource_link 8a294723-b954-f833-9469-de406a452469 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-_La quarte estampie real_ ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lst_estmpie))
+_La quarte estampie real_ ({{% resource_link 6a503149-e219-113a-db41-cd021f5119cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +191,7 @@ _La quarte estampie real_ ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lst_est
 Introduction to Trecento Music
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec09))
+({{% resource_link 0ed60769-3e70-32ca-cf9a-d6775aad3328 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -203,7 +206,7 @@ Introduction to Trecento Music
 Trecento Music and Musicology: Introduction to Research; Sacred Music
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec10))
+({{% resource_link 8bd69ef5-a471-8be1-17ae-6d93e3b36f70 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -218,12 +221,12 @@ Trecento Music and Musicology: Introduction to Research; Sacred Music
 Simplicity and Complexity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec11))
+({{% resource_link a0ac6461-af81-f2e7-d9e4-68c1685998c2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture slides ([PDF - 5.0MB]({{< baseurl >}}/resources/mit21m_220f10_lec11_slides))
+Lecture slides ({{% resource_link c6eff5c2-135b-d1c7-4e64-b1247bcc719c "PDF - 5.0MB" %}})
 
-Paintings by Andrea da Firenze, Giotto di Bondone, and Jacopo del Casentino ([ZIP - 1.4MB]({{< baseurl >}}/resources/lec11_images)) (This zip file contains 11 jpg images.)
+Paintings by Andrea da Firenze, Giotto di Bondone, and Jacopo del Casentino ({{% resource_link f087b61c-785f-56ae-bb27-953ca8c67c65 "ZIP - 1.4MB" %}}) (This zip file contains 11 jpg images.)
 
 
 {{< tdclose >}}
@@ -237,7 +240,7 @@ Paintings by Andrea da Firenze, Giotto di Bondone, and Jacopo del Casentino ([ZI
 The End of the Trecento and The Rise of European Music
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.6MB]({{< baseurl >}}/resources/mit21m_220f10_lec12))
+({{% resource_link 62feaf9b-8230-b352-047a-b28871f85286 "PDF - 2.6MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -273,10 +276,10 @@ First Exam
 Music in the Mid-Fifteenth Century 1440–1480
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec13))
+({{% resource_link bc226a69-e270-892d-c85e-a414d412ad34 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture slides ([PDF - 1.5 MB]({{< baseurl >}}/resources/mit21m_220f10_lec13_slides))
+Lecture slides ({{% resource_link a85af248-d2d8-ba36-5e2f-33fc3738dcda "PDF - 1.5 MB" %}})
 
 [Notes on _In Hydraulis_](http://www.allmusic.com/composition/in-hydraulis-motet-for-4-voices-mc0002386356) by Timothy Dickey
 
@@ -292,7 +295,7 @@ Lecture slides ([PDF - 1.5 MB]({{< baseurl >}}/resources/mit21m_220f10_lec13_sli
 Vocal Music: Josquin, his Contemporaries, and his Followers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec14))
+({{% resource_link 93413d73-f07d-187d-930b-9883238ad9a3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -319,13 +322,13 @@ Discussion: How to revise a research paper
 {{< anchor "Lecture_16" >}}{{< /anchor >}}16
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture video: [16th century vocal and instrumental music]({{< baseurl >}}/resources/lecture-16-16th-c)
+Lecture video: {{% resource_link 06f6dc3e-a94f-ef92-9e18-2248f443ce8f "16th century vocal and instrumental music" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec16))
+({{% resource_link ee2495c3-1b6d-60e2-553b-d6a22346ef4c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture slides ([PDF - 1.5 MB]({{< baseurl >}}/resources/mit21m_220f10_lec16_slides))
+Lecture slides ({{% resource_link 3eda9269-8ffe-5ac7-a761-483a3ffae079 "PDF - 1.5 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -359,7 +362,7 @@ Special Event: Jane Alden, "Why Facsimiles?"
 Tutor England / The Elizabethan Madrigal
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec17))
+({{% resource_link e05b2a50-3ef2-6950-80e6-ffdd8e07a1e2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -374,10 +377,10 @@ Tutor England / The Elizabethan Madrigal
 English Music in Church and School
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec18))
+({{% resource_link ac231203-041c-566e-a9f1-bdc1506648d7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Evensong (Adapted): The Book of Common Prayer Noted ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec18evnsong))
+Evensong (Adapted): The Book of Common Prayer Noted ({{% resource_link 3701493f-80f0-f98b-d8c3-aebdd5eb3754 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -389,7 +392,7 @@ Evensong (Adapted): The Book of Common Prayer Noted ([PDF]({{< baseurl >}}/resou
 Instrumental Music and Lute Song (Doug Freundlich, Guest Lecturer)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec19))
+({{% resource_link a09a78de-b02b-59ca-c5d7-5ab207ec970e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -404,10 +407,10 @@ Instrumental Music and Lute Song (Doug Freundlich, Guest Lecturer)
 Music in London Society
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec20))
+({{% resource_link c58c526a-0c93-c5dd-38a0-4ad647009530 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Songs of Thomas Ravenscroft ([PDF]({{< baseurl >}}/resources/mit21m_220f10_list_ravens))
+Songs of Thomas Ravenscroft ({{% resource_link 0bfbfbf4-9444-05a5-0246-4ba623235b40 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -440,7 +443,7 @@ Second Hour Exam
 Madrigal and Drama in Late Sixteenth-Century Italy; Music in Venice
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec21))
+({{% resource_link 3951807e-7d47-b672-9c1c-46886222c60b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -455,7 +458,7 @@ Madrigal and Drama in Late Sixteenth-Century Italy; Music in Venice
 The Rise of Opera and a New Style
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec22))
+({{% resource_link 6fd90c2e-299d-30ae-d0df-8d71ff107b66 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
