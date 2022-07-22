@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides related resources for the course, including a tool
+  for mapping the place and time a work was created, information on a musical art
+  object near MIT, a video on manuscript research, and a manuscript of liturgical
+  chant at MIT.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: da35e008-3cb1-1d51-fbff-ca7cc8a6b8e7
 ---
@@ -7,8 +13,7 @@ uid: da35e008-3cb1-1d51-fbff-ca7cc8a6b8e7
 TimeMap
 -------
 
-[![Screenshot image of TimeMap, showing a scrolling timeline on the left side and a map of western Europe on the right, along with pop-up video player window.](/courses/music-and-theater-arts/21m-220-early-music-fall-2010/related-resources/timemap.jpg)](http://code.google.com/p/timemap/
-)
+{{< resource uuid="1a9cf99b-dc22-2df7-3299-1e17bed81494" href="http://code.google.com/p/timemap/ " >}}
 
 [TimeMap](http://code.google.com/p/timemap/
 ) helps you to explore and compare music that was composed at the same time and/or in close geographical proximity. (TimeMap is best viewed with Firefox and Safari browsers. Image courtesy of Natasha Skowronski. Used with permission.)
@@ -34,8 +39,8 @@ This double-monochord simulation software was programmed by Michael Cuthbert to 
 
 The software runs on Mac OS (including Lion) and PCs (Windows 2000-Windows 7). It was made using Max/MSP.
 
-*   PC ([ZIP - 2.0MB]({{< baseurl >}}/resources/monochord_pc)) (This ZIP file contains: 1 folder.)
-*   Mac ([ZIP - 6.4MB]({{< baseurl >}}/resources/monochord_mac)) (This ZIP file contains: 2 .app files and 1 .app folder.)
+*   PC ({{% resource_link 10fe3b4f-880d-dab2-536b-8c7d2a8891d6 "ZIP - 2.0MB" %}}) (This ZIP file contains: 1 folder.)
+*   Mac ({{% resource_link 081f1413-aea9-e426-ea55-ef5864c6e6a8 "ZIP - 6.4MB" %}}) (This ZIP file contains: 2 .app files and 1 .app folder.)
 
 **NOTE: MIT OpenCourseWare does not provide support for this software.**
 
@@ -59,4 +64,4 @@ Says Cuthbert, "For many of us, modern musicology is less about spending time in
 The Glaser Codex: A Manuscript of Liturgical Chant at MIT
 ---------------------------------------------------------
 
-The [Glaser Codex](http://web.mit.edu/cuthbert/www/glaser/) comprises the remains of an approximately 107 folio (214 page) manuscript from the 15th and 16th century. This website contains a selection of folio images, along with 21M.220 student scholarly analysis of these folios.
+The [Glaser Codex](http://web.mit.edu/cuthbert/www/glaser/) comprises the remains of an approximately 107 folio (214 page) manuscript from the 15{{< sup "th" >}} and 16{{< sup "th" >}} century. This website contains a selection of folio images, along with 21M.220 student scholarly analysis of these folios.

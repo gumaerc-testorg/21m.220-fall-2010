@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the required textbook and other
+  references, and the schedule of readings by lecture session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: da4d0d00-38fc-fed9-6cb1-2f755f976b49
 ---
@@ -230,7 +235,7 @@ The End of the Trecento and The Rise of European Music
 *   Chapter 16, "English Music," "Fauxbourdon," pp. 118-9, and "Duns-taple," pp. 121-3.
 *   Chapter 17, "Music in Burgundy" (on Du Fay and Binchois), pp. 123-31.
 
-Cuthbert, Michael Scott. "Counting Our Losses." Excerpt from _Trecento Fragments_. PhD Thesis, Harvard University, 2006. ([PDF]({{< baseurl >}}/resources/mit21m_220f10_12cuthbert)) (The full dissertation is at [Trecento Fragments and Polyphony Beyond the Codex](https://www.diamm.ac.uk/documents/135/Cuthbert_diss.pdf) [(PDF)](https://www.diamm.ac.uk/documents/135/Cuthbert_diss.pdf))
+Cuthbert, Michael Scott. "Counting Our Losses." Excerpt from _Trecento Fragments_. PhD Thesis, Harvard University, 2006. ({{% resource_link 87b64865-c529-0b28-d137-b24cfac29110 "PDF" %}}) (The full dissertation is at [Trecento Fragments and Polyphony Beyond the Codex](https://www.diamm.ac.uk/documents/135/Cuthbert_diss.pdf) [(PDF)](https://www.diamm.ac.uk/documents/135/Cuthbert_diss.pdf))
 
 
 {{< tdclose >}}
@@ -317,7 +322,7 @@ Discussion: How to revise a research paper
 16
 {{< tdclose >}}
 {{< tdopen >}}
-16th century vocal and instrumental music
+16{{< sup "th" >}} century vocal and instrumental music
 {{< tdclose >}}
 {{< tdopen >}}
 \[W&S\]
@@ -372,7 +377,7 @@ English Music in Church and School
 
 Atlas, Allan W. "Elizabethan England." In _Anthology of Renaissance Music (The Norton Introduction to Music History)_. W. W. Norton and Sons, 1998, pp. 675-97. ISBN: 9780393971705.
 
-Morley, Thomas. _A Plaine and Easie Introduction to Practicall Musicke (Shakespeare association. Facsimiles)_. Oxford University Press, 1937, pp. 1-9 and 74. ([PDF - 1.0MB]({{< baseurl >}}/resources/mit21m_220f10_read18_mly))
+Morley, Thomas. _A Plaine and Easie Introduction to Practicall Musicke (Shakespeare association. Facsimiles)_. Oxford University Press, 1937, pp. 1-9 and 74. ({{% resource_link ac6849ca-33ed-275d-b090-31ae709a9263 "PDF - 1.0MB" %}})
 
 
 {{< tdclose >}}
@@ -390,7 +395,7 @@ Instrumental Music and Lute Song (Doug Freundlich, Guest Lecturer)
 
 Atlas, Allan W. "Elizabethan England." In _Anthology of Renaissance Music (The Norton Introduction to Music History)_. W. W. Norton and Sons, 1998, pp. 661-75. ISBN: 9780393971705.
 
-Lute Tablature: "Maids in Constrite." ([PDF]({{< baseurl >}}/resources/mit21m_220f10_read19_maids))
+Lute Tablature: "Maids in Constrite." ({{% resource_link a2bbbf13-d38f-20e4-f0c1-fc60b918e575 "PDF" %}})
 
 
 {{< tdclose >}}
