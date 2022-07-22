@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: timemap.jpg
 uid: 1a9cf99b-dc22-2df7-3299-1e17bed81494
 ---
 A screenshot of the linked TimeLine tool. 
-

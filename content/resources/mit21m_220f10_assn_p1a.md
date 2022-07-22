@@ -6,6 +6,7 @@ file: /courses/21m-220-early-music-fall-2010/f227af1140747749927cf8f3d9070fed_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21M_220F10_assn_p1a.pdf
 uid: f227af11-4074-7749-927c-f8f3d9070fed
 ---
 Ths resource contains information about comparisons of performance practice for a troubadour song and a sequence.
-

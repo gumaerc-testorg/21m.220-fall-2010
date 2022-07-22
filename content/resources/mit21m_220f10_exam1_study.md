@@ -5,6 +5,7 @@ file: /courses/21m-220-early-music-fall-2010/c5d5d1daf501f7b0320857d1bfced4bd_MI
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT21M_220F10_exam1_study.pdf
 uid: c5d5d1da-f501-f7b0-3208-57d1bfced4bd
 ---
 This resource includes information on compositions for midterm.
-

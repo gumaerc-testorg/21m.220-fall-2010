@@ -5,6 +5,7 @@ file: /courses/21m-220-early-music-fall-2010/a2bbbf13d38f20e4f0c1fc60b918e575_MI
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT21M_220F10_read19_maids.pdf
 uid: a2bbbf13-d38f-20e4-f0c1-fc60b918e575
 ---
 This resource contains information about maids in constrite.
-

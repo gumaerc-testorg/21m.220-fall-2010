@@ -5,6 +5,7 @@ file: /courses/21m-220-early-music-fall-2010/d8b270f6df43f6f5a4a6a1552ee1a990_MI
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT21M_220F10_exam1.pdf
 uid: d8b270f6-df43-f6f5-a4a6-a1552ee1a990
 ---
 This resource contains exam 1 questions.
-
