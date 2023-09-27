@@ -49,11 +49,12 @@
     "website": "21m-220-early-music-fall-2010"
   },
   "learning_resource_types": [
-    "Exam Materials",
     "Projects with Examples",
     "Lecture Notes",
-    "Written Assignments with Examples"
+    "Written Assignments with Examples",
+    "Exams"
   ],
-  "site_uid": "40e9dfd6-4992-496c-966b-dce26c0c5ed3",
+  "site_uid": "0dd05225-abda-4d71-8b93-30303ec99767",
+  "site_short_id": "21m.220-fall-2010",
   "title": "Course Metadata"
 }
