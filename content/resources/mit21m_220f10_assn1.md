@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes problems related to Chant notation.
 file: /courses/21m-220-early-music-fall-2010/d5de8f04e7e4009a91a78f832e4d6377_MIT21M_220F10_assn1.pdf
+file_size: 127261
 file_type: application/pdf
 learning_resource_types:
 - Assignments

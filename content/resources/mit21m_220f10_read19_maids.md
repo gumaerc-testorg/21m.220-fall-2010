@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about maids in constrite.
 file: /courses/21m-220-early-music-fall-2010/a2bbbf13d38f20e4f0c1fc60b918e575_MIT21M_220F10_read19_maids.pdf
+file_size: 127054
 file_type: application/pdf
 learning_resource_types:
 - Readings
