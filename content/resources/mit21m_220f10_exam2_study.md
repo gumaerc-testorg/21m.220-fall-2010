@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains study guide.
 file: /courses/21m-220-early-music-fall-2010/ed3df7bbfddc592ca96f4b1923ef3a11_MIT21M_220F10_exam2_study.pdf
+file_size: 89569
 file_type: application/pdf
 learning_resource_types:
 - Exams
