@@ -2,6 +2,7 @@
 content_type: resource
 description: 'A screenshot of the linked TimeLine tool. '
 file: /courses/21m-220-early-music-fall-2010/1a9cf99bdc222df732991e17bed81494_timemap.jpg
+file_size: 47753
 file_type: image/jpeg
 image_metadata:
   caption: ''

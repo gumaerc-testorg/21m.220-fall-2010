@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on Italy continued and ars subtilior.
 file: /courses/21m-220-early-music-fall-2010/c6eff5c2135bd1c74e64b1247bcc719c_MIT21M_220F10_lec11_slides.pdf
+file_size: 5190266
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
