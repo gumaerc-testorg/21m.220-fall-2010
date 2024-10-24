@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains instructions for revising essays.
-file: /courses/21m-220-early-music-fall-2010/2a512ca7dd2e0e4b1eae17a74914b938_MIT21M_220F10_assn_revise.pdf
+file: /ol-ocw-studio-app/courses/21m-220-early-music-fall-2010/2a512ca7dd2e0e4b1eae17a74914b938_MIT21M_220F10_assn_revise.pdf
 file_size: 53495
 file_type: application/pdf
 learning_resource_types:
