@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about music in London society.
-file: /ol-ocw-studio-app/courses/21m-220-early-music-fall-2010/0bfbfbf4944405a502464ba623235b40_MIT21M_220F10_list_ravens.pdf
+file: /courses/21m-220-early-music-fall-2010/0bfbfbf4944405a502464ba623235b40_MIT21M_220F10_list_ravens.pdf
 file_size: 558093
 file_type: application/pdf
 learning_resource_types:

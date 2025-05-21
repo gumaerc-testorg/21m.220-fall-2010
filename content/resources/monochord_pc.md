@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This ZIP file contains 1 folder.
-file: /ol-ocw-studio-app/courses/21m-220-early-music-fall-2010/10fe3b4f880ddab2536b8c7d2a8891d6_monochord_pc.zip
+file: /courses/21m-220-early-music-fall-2010/10fe3b4f880ddab2536b8c7d2a8891d6_monochord_pc.zip
 file_size: 2106805
 file_type: application/zip
 learning_resource_types: []
