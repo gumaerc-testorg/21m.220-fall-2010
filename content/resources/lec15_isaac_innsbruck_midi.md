@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a mp3 for lecture 15.
-file: /ol-ocw-studio-app/courses/21m-220-early-music-fall-2010/f4e6755df311c438e040979caf0ddaba_lec15_isaac_innsbruck_midi.mp3
+file: /courses/21m-220-early-music-fall-2010/f4e6755df311c438e040979caf0ddaba_lec15_isaac_innsbruck_midi.mp3
 file_size: 740768
 file_type: audio/mpeg
 learning_resource_types: []

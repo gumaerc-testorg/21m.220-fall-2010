@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This zip file contains 2 .app files and 1 .app folder.
-file: /ol-ocw-studio-app/courses/21m-220-early-music-fall-2010/081f1413aea9e426ea55ef5864c6e6a8_monochord_mac.zip
+file: /courses/21m-220-early-music-fall-2010/081f1413aea9e426ea55ef5864c6e6a8_monochord_mac.zip
 file_size: 6663706
 file_type: application/zip
 learning_resource_types: []

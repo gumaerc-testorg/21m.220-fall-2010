@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains exam 1 questions.
-file: /ol-ocw-studio-app/courses/21m-220-early-music-fall-2010/d8b270f6df43f6f5a4a6a1552ee1a990_MIT21M_220F10_exam1.pdf
+file: /courses/21m-220-early-music-fall-2010/d8b270f6df43f6f5a4a6a1552ee1a990_MIT21M_220F10_exam1.pdf
 file_size: 81001
 file_type: application/pdf
 learning_resource_types:

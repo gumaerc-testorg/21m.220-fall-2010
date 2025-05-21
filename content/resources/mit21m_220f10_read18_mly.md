@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about a plaine and easie introduction
   to practicall musicke.
-file: /ol-ocw-studio-app/courses/21m-220-early-music-fall-2010/ac6849ca33ed275db09031ae709a9263_MIT21M_220F10_read18_mly.pdf
+file: /courses/21m-220-early-music-fall-2010/ac6849ca33ed275db09031ae709a9263_MIT21M_220F10_read18_mly.pdf
 file_size: 1092879
 file_type: application/pdf
 learning_resource_types:
