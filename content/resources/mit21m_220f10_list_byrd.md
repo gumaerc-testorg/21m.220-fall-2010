@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes musical notes.
-file: /ol-ocw-studio-app/courses/21m-220-early-music-fall-2010/ffb033bde3ce197dad9c8010a149a196_MIT21M_220F10_list_byrd.pdf
+file: /courses/21m-220-early-music-fall-2010/ffb033bde3ce197dad9c8010a149a196_MIT21M_220F10_list_byrd.pdf
 file_size: 1154793
 file_type: application/pdf
 learning_resource_types: []
