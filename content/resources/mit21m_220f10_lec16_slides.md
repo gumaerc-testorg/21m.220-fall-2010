@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on sixteenth century vocal and instrumental
   music.
-file: /courses/21m-220-early-music-fall-2010/3eda92698ffe5ac7a761483a3ffae079_MIT21M_220F10_lec16_slides.pdf
+file: /ol-ocw-studio-app/courses/21m-220-early-music-fall-2010/3eda92698ffe5ac7a761483a3ffae079_MIT21M_220F10_lec16_slides.pdf
 file_size: 1723051
 file_type: application/pdf
 learning_resource_types:

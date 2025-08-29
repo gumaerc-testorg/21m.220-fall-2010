@@ -14,7 +14,7 @@ uid: da35e008-3cb1-1d51-fbff-ca7cc8a6b8e7
 
 {{< resource uuid="1a9cf99b-dc22-2df7-3299-1e17bed81494" href="http://code.google.com/p/timemap/ " >}}
 
-\[TimeMap\]([http://code.google.com/p/timemap/](http://code.google.com/p/timemap/)  
+\[TimeMap\]([http://code.google.com/p/timemap/](http://code.google.com/p/timemap/)   
 ) helps you to explore and compare music that was composed at the same time and/or in close geographical proximity. (TimeMap is best viewed with Firefox and Safari browsers. Image courtesy of Natasha Skowronski. Used with permission.)
 
 One of the hardest parts of learning music history (and I suppose art and other histories as well) is that though styles change over time, the changes happen extremely scattered with little uniformity. Thus students tend to believe that a more "advanced" sounding piece was composed later than a "simpler" sounding one, when the opposite is also extremely likely to be true. One of the biggest recurring problems for learning style in Early Music, for instance, is that the most commonly studied pieces in English Renaissance style are being composed at the same time or after the Italians created new techniques of recitative, basso continuo, and other markers of the Baroque.
@@ -27,7 +27,7 @@ TimeMap, a tool developed by myself and Natasha Skowronski (MIT '10), allows vie
 
 {{< resource uuid="906069a2-43da-9f3f-5cc6-b95a9689dcb2" >}}
 
-This video is from [MIT Council for the Arts](https://arts.mit.edu/camit/) on [MIT TechTV](http://video.mit.edu/watch/from-ancient-greece-to-kendall-t-the-musical-legacy-of-pythagoras-6346/) and is not provided under our [Creative Commons license](https://ocw-studio.odl.mit.edu/terms/).
+This video is from [MIT Council for the Arts](https://arts.mit.edu/camit/) on [MIT TechTV](http://video.mit.edu/watch/from-ancient-greece-to-kendall-t-the-musical-legacy-of-pythagoras-6346/) and is not provided under our [Creative Commons license](https://ocw.mit.edu/pages/privacy-and-terms-of-use/).
 
 Near MIT, inside the Kendall Square subway stop, is a musical art object by Paul Matisse called 'Pythagoras' which demonstrates the fundamental ratios of so-called Pythagorean tuning via several large bells that are struck by hammers under the control of riders waiting for their trains. In this lecture, given on the occasion of the renovation of the bells, Prof. Cuthbert discusses the musical legacy of Pythagoras 2500 years after his death. The video talks about these bells, the musical/scientific achievements of the followers of Pythagoras, modern tools for replicating their experiments, how common practice music adopted then rejected so-called Pythagorean tuning, and the modern revival of 'pure' just intonation tuning.
 
@@ -48,7 +48,7 @@ For more about Monochords and a demonstration of this software, see the video em
 
 ### enChanting Musical Artifacts in Unlikely Places: Rare Resources in MIT's Lewis Music Library
 
-Prof. Michael Scott Cuthbert and Nancy Carlson Schrock, Conservator for Special Collections, MIT Libraries. March 3, 2009. (53:15) (This video is from [MIT Libraries](http://libraries.mit.edu/) on MIT TechTV and is not provided under our [Creative Commons license](https://ocw-studio.odl.mit.edu/terms/).)
+Prof. Michael Scott Cuthbert and Nancy Carlson Schrock, Conservator for Special Collections, MIT Libraries. March 3, 2009. (53:15) (This video is from [MIT Libraries](http://libraries.mit.edu/) on MIT TechTV and is not provided under our [Creative Commons license](https://ocw.mit.edu/pages/privacy-and-terms-of-use/).)
 
 *About this video* \[from MIT World\]: "There are times when it's necessary to judge a book by its cover, or a single page, because that's all that remains. Michael Scott Cuthbert and Nancy Schrock reveal some treasures from MIT's early music collection which, while often incomplete or damaged, sing volumes about their origins and use.
 
