@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes information on evensong (adapted): the book of
   common prayer noted.'
-file: /courses/21m-220-early-music-fall-2010/3701493f80f0f98bd8c3aebdd5eb3754_MIT21M_220F10_lec18evnsong.pdf
+file: /ol-ocw-studio-app/courses/21m-220-early-music-fall-2010/3701493f80f0f98bd8c3aebdd5eb3754_MIT21M_220F10_lec18evnsong.pdf
 file_size: 273994
 file_type: application/pdf
 learning_resource_types:
