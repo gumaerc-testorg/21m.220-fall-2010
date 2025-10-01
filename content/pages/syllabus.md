@@ -41,7 +41,7 @@ Listening as much and as well as you can is an essential part of success in this
 
 ### Writing Assignments
 
-This is a [Communications Intensive in the Major](http://web.mit.edu/commreq/index.html) subject (CI-M) and thus we will introduce the tools used by professional music historians to communicate. In addition to some short one to two page assignments, there will be three papers:
+This is a {{% resource_link "92cbfae3-487a-460f-bcf7-7c331e658132" "Communications Intensive in the Major" %}} subject (CI-M) and thus we will introduce the tools used by professional music historians to communicate. In addition to some short one to two page assignments, there will be three papers:
 
 1.  A paper on the performance of medieval music;
 2.  A research and analysis paper which will be revised, improved, and resubmitted (note that several class sessions, in particular much of session 15, are preparation for this paper); and

@@ -91,7 +91,7 @@ Anon. "Kyrie." Monks of Prinknash & Nuns of Stanbrook Abbeys. _Christmas Chant -
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Epitaph of Seikilos](http://imslp.org/wiki/Seikilos_Epitaph_%28Ancient_Greek%29)
+{{% resource_link "a03c6a54-2777-42fe-89c0-3a1400debff7" "Epitaph of Seikilos" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,9 +142,9 @@ Hildegard of Bingen. "Scientia Dei," "Anima," "Stepitus Diaboli," and "Virtues."
 {{< tdopen >}}
 
 
-Wipo of Burgundy. [_Victimae Paschali Laudes_](https://en.wikipedia.org/wiki/Victimae_paschali_laudes).
+Wipo of Burgundy. {{% resource_link "16c9c41f-a7d1-4fe7-886b-deae9950264f" "_Victimae Paschali Laudes_" %}}.
 
-Hildegard of Bingen. [_Symphonia et Ordo virtutum_](http://imslp.org/wiki/Symphonia_et_Ordo_virtutum_%28Hildegard%29).
+Hildegard of Bingen. {{% resource_link "99921d83-2bc5-42dc-aec1-13c56e424873" "_Symphonia et Ordo virtutum_" %}}.
 
 
 {{< tdclose >}}
@@ -228,7 +228,7 @@ Petrus de Cruce. "Aucun ont trouvé." Charles Brett, David Munrow & Early Music 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Pérotin. "[Viderunt Omnes](https://en.wikipedia.org/wiki/Viderunt_Omnes)."
+Pérotin. "{{% resource_link "15cc1aa8-a3dd-4f59-a7ec-e3b0aea58d1b" "Viderunt Omnes" %}}."
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -260,7 +260,7 @@ Guillaume de Machaut. "Rose, liz, printemps, verdure." Christopher Page & Gothic
 {{< tdopen >}}
 
 
-Guillaume de Machaut. [Kyrie, _Mass of our Lady_](http://www2.cpdl.org/wiki/index.php/Messe_de_Nostre_Dame_%28Guillaume_de_Machaut%29).
+Guillaume de Machaut. {{% resource_link "49ba7c81-9741-44d1-add6-be247a9d7c56" "Kyrie, _Mass of our Lady_" %}}.
 
 
 {{< tdclose >}}
@@ -331,7 +331,7 @@ Solage. "Fumeux fume." David Munrow & Early Music Consort of London. _The Art of
 
 {{< tdclose >}}
 {{< tdopen >}}
-Solage. "[Fumeaux fume par fumée](http://www2.cpdl.org/wiki/index.php/Fumeux_fume_par_fumee_%28Solage%29)."
+Solage. "{{% resource_link "c9ee21b9-afb1-4aa0-821f-ea1d387a52ae" "Fumeaux fume par fumée" %}}."
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -354,7 +354,7 @@ Guillaume du Fay. "Adieu ces bons vins de Lannoys." Christopher Page & Gothic Vo
 
 {{< tdclose >}}
 {{< tdopen >}}
-Ciconia, Johannes. "[O rosa bella](http://imslp.org/wiki/O_rosa_bella_%28Ciconia,_Johannes%29)."
+Ciconia, Johannes. "{{% resource_link "5a5cb5f9-6c41-46d3-95a2-85e85afff330" "O rosa bella" %}}."
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -404,15 +404,15 @@ Busnoys, Antoine. "In hydraulis." Alexander Blachly & Pomerium. _In Hydraulis & 
 {{< tdopen >}}
 
 
-Guillaume du Fay. "[Nuper rosarum flores](http://www.cpdl.org/wiki/index.php/Nuper_rosarum_flores_%28Guillaume_Dufay%29)."
+Guillaume du Fay. "{{% resource_link "6764bd9b-572c-46f9-b4ab-45d82366b61b" "Nuper rosarum flores" %}}."
 
-Anon. "[L'homme armé](http://www.cpdl.org/wiki/index.php/L%27Homme_Arm%C3%A9_%28Anonymous%29)."
+Anon. "{{% resource_link "df58f693-357c-46b6-a34b-d53f7dc79b57" "L'homme armé" %}}."
 
-Guillaume du Fay. [_Missa l'Homme Armé_](http://imslp.org/wiki/Missa_l%27Homme_Arm%C3%A9_%28Dufay,_Guillaume%29).
+Guillaume du Fay. {{% resource_link "0824ebde-3de5-4f9e-ac1c-f73d913a4006" "_Missa l'Homme Armé_" %}}.
 
-Ockeghem, Johannes. _[Missa prolationum](http://imslp.org/wiki/Missa_prolationum_%28Ockeghem,_Johannes%29)_.
+Ockeghem, Johannes. _{{% resource_link "0b46b4ce-a1b6-4e8e-8631-b14013f146df" "Missa prolationum" %}}_.
 
-Busnoys, Antoine. [_In hydraulis_](http://imslp.org/wiki/In_hydraulis_%28Busnois,_Antoine%29).
+Busnoys, Antoine. {{% resource_link "9ba825a2-f6bd-4af5-99de-205dda141ac1" "_In hydraulis_" %}}.
 
 
 {{< tdclose >}}
@@ -438,18 +438,18 @@ Claudin de Sermisy. "Tant que vivray."
 
 *   Scholars of London. _French Chansons_. Naxos, 1994. Track 8.
 *   Baltimore Consort. _La Rocque 'n' Roll: Popular Music of Renaissance France_. Dorian, 1993. Track 17. (voice and lute)
-*   Adrian Morejan, harpsichord. From "[Additional Musical Selections](http://academic.cengage.com/resource_uploads/static_resources/0534619622/8032/music.html)" for _Music in Western Civilization_. ([MP3](http://academic.cengage.com/resource_uploads/static_resources/0534619622/8032/anthology60d.mp3))
+*   Adrian Morejan, harpsichord. From "{{% resource_link "8b8804d6-c17c-4a11-8e04-a5ba761ff44d" "Additional Musical Selections" %}}" for _Music in Western Civilization_. ({{% resource_link "4b00e785-e422-4e71-bf1c-571c45925fa3" "MP3" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Josquin des Prez. [_El grillo è bon cantore_](http://www2.cpdl.org/wiki/index.php/El_Grillo_%28Josquin_des_Prez%29).
+Josquin des Prez. {{% resource_link "adf6c710-5980-4ec8-9b4a-b75e195054da" "_El grillo è bon cantore_" %}}.
 
-Josquin des Prez. "[_Ave Maria…virgo serena_](http://www2.cpdl.org/wiki/index.php/Ave_Maria_-_virgo_serena_%28Jean_Mouton%29)."
+Josquin des Prez. "{{% resource_link "ac4f519d-7eb8-4970-b003-9fcd548c1d1c" "_Ave Maria…virgo serena_" %}}."
 
-Claudin de Sermisy. [_Tant que vivray_](http://www.cpdl.org/wiki/index.php/Tant_que_vivray_%28Claudin_de_Sermisy%29).
+Claudin de Sermisy. {{% resource_link "87dd86bf-7a80-4f86-9c50-e8dda1b08bd3" "_Tant que vivray_" %}}.
 
 
 {{< tdclose >}}
@@ -484,15 +484,15 @@ Giovanni Pierluigi da Palestrina. "Kyrie." _Missa Tu es Petrus_. Stephen Cleobur
 {{< tdopen >}}
 
 
-Isaac, Heinrich. [_Innsbruck, ich muss dich lassen_](http://www.cpdl.org/wiki/index.php/Innsbruck%2C_ich_muss_dich_lassen_%28Heinrich_Isaac%29).
+Isaac, Heinrich. {{% resource_link "f0c5b0db-815f-4490-bfcc-32c0ac15759a" "_Innsbruck, ich muss dich lassen_" %}}.
 
-Luther, Martin, and Johann Walter. [_Ein feste Burg ist unser Gott_](http://www.cpdl.org/wiki/index.php/Ein_feste_Burg_%28Johann_Walter%29).
+Luther, Martin, and Johann Walter. {{% resource_link "af0ea97a-95d4-4ab4-b6ef-733446f66452" "_Ein feste Burg ist unser Gott_" %}}.
 
-Orlando de Lasso, [Timor et tremor](http://www2.cpdl.org/wiki/index.php/Timor_et_tremor_%28Orlando_di_Lasso%29).
+Orlando de Lasso, {{% resource_link "1ad85e53-f50c-46a1-8e97-cc5b45b0d452" "Timor et tremor" %}}.
 
-Giovanni Pierluigi da Palestrina. [Tu es Petrus](http://www2.cpdl.org/wiki/index.php/Tu_es_Petrus_a_6_%28Giovanni_Pierluigi_da_Palestrina%29)."
+Giovanni Pierluigi da Palestrina. {{% resource_link "c9e1a723-53e7-4f8d-b96f-ad2697f2991d" "Tu es Petrus" %}}."
 
-Giovanni Pierluigi da Palestrina, [_Missa Tu es Petrus_.](http://www2.cpdl.org/wiki/index.php/Missa_Tu_es_Petrus_%28Giovanni_Pierluigi_da_Palestrina%29)
+Giovanni Pierluigi da Palestrina, {{% resource_link "92cb5a9d-c641-45c3-882f-5c72a3da4ca1" "_Missa Tu es Petrus_." %}}
 
 
 {{< tdclose >}}
@@ -525,13 +525,13 @@ Certon, Pierre. "La, la, la, je ne l'ose dire." The King's Singers. _Madrigal Hi
 {{< tdopen >}}
 
 
-Arcadelt, Jacques. [_Il bianco e dolce cigno_](https://imslp.org/wiki/Il_bianco_e_dolce_cigno_(Arcadelt%2C_Jacob)).
+Arcadelt, Jacques. {{% resource_link "bee930a9-b201-4f04-bd2e-c4a9194d5f68" "_Il bianco e dolce cigno_" %}}.
 
-Vecchi, Orazio. [_Il bianco e dolce cigno_](http://www2.cpdl.org/wiki/index.php/Il_bianco_e_dolce_cigno_%28Orazio_Vecchi%29).
+Vecchi, Orazio. {{% resource_link "f661266c-c9ef-47c7-a550-18d138a3de37" "_Il bianco e dolce cigno_" %}}.
 
-Certon, Pierre. "[_La, la, la, je ne l'ose dire_](http://imslp.org/wiki/Je_ne_l%27ose_dire_%28Certon,_Pierre%29)."
+Certon, Pierre. "{{% resource_link "ba2b746a-fc43-485f-b68e-9738435a5769" "_La, la, la, je ne l'ose dire_" %}}."
 
-Praetorius, Michael. [_Terpsichore_](http://imslp.org/wiki/Terpsichore,_Musarum_Aoniarum_%28Praetorius,_Michael%29).
+Praetorius, Michael. {{% resource_link "7ec1f337-fdc0-4aa8-9d7a-b6699dd24254" "_Terpsichore_" %}}.
 
 
 {{< tdclose >}}
@@ -578,9 +578,9 @@ Weelkes, Thomas. "As Vesta was from Latmos Hill Descending." Ian Partridge & Pro
 {{< tdopen >}}
 
 
-King Henry VIII. "[Pastyme with Good Companye](http://www.cpdl.org/wiki/index.php/Pastime_with_good_company_%28Henry_VIII%29)."
+King Henry VIII. "{{% resource_link "46ddebaa-ee3d-46b8-ae56-a829a39cc647" "Pastyme with Good Companye" %}}."
 
-Weelkes, Thomas. "[As Vesta was from Latmos hill descending](http://www.cpdl.org/wiki/index.php/As_Vesta_was_from_Latmos_hill_descending_%28Thomas_Weelkes%29)."
+Weelkes, Thomas. "{{% resource_link "60daf746-fec2-4582-ace7-1aa1065d1c6c" "As Vesta was from Latmos hill descending" %}}."
 
 
 {{< tdclose >}}
@@ -611,9 +611,9 @@ Morley, Thomas. "April is in my Mistress' Face." Paul Hillier & Hilliard Ensembl
 
 Byrd, William. "Though Amaryllis Dance in Green." ({{% resource_link ffb033bd-e3ce-197d-ad9c-8010a149a196 "PDF - 1.1MB" %}})
 
-Byrd, William. [_O Lord, Make thy Servant, Elizabeth_](http://www2.cpdl.org/wiki/index.php/O_Lord,_make_thy_servant_Elizabeth_(William_Byrd)).
+Byrd, William. {{% resource_link "ceb8b8ac-d073-46e5-ab9c-fc8c19dcfb48" "_O Lord, Make thy Servant, Elizabeth_" %}}.
 
-Morley, Thomas. [_April is in my Mistress' Face_](http://www.cpdl.org/wiki/index.php/April_is_in_my_mistress%27_face_%28Thomas_Morley%29).
+Morley, Thomas. {{% resource_link "5085a1ae-623b-43cf-a93f-c0cd5f40f70e" "_April is in my Mistress' Face_" %}}.
 
 
 {{< tdclose >}}
@@ -645,11 +645,11 @@ Dowland, John. "Galliard Can She Excuse."
 {{< tdopen >}}
 
 
-Byrd, William. "The Woods So Wild." [_Fitzwilliam Virginal Book_](http://imslp.org/wiki/Fitzwilliam_Virginal_Book_%28Tregian,_Francis_%28the_Younger%29%29). Vol. 1.
+Byrd, William. "The Woods So Wild." {{% resource_link "799593e9-b79d-40a8-a993-3efa7dfbedd7" "_Fitzwilliam Virginal Book_" %}}. Vol. 1.
 
-Dowland, John. "[Can She Excuse My Wrongs?](http://www.cpdl.org/wiki/index.php/Can_she_excuse_my_wrongs_%28John_Dowland%29)"
+Dowland, John. "{{% resource_link "925e003c-4fd0-4123-b731-af6e849053a2" "Can She Excuse My Wrongs?" %}}"
 
-Dowland, John. [_Lachrimae, or Seven Tears_](http://imslp.org/wiki/Lachrimae,_or_Seven_Tears_%28Dowland,_John%29).
+Dowland, John. {{% resource_link "f14e4e0b-3165-4859-8182-26a8df6dd270" "_Lachrimae, or Seven Tears_" %}}.
 
 
 {{< tdclose >}}
@@ -678,7 +678,7 @@ Taverner, John. "Sanctus & Benedictus." _Missa Gloria Tibi Trinitas_. Peter Phil
 {{< tdopen >}}
 
 
-Dowland, John. "[Fine Knacks for Ladies](http://www.cpdl.org/wiki/index.php/Fine_knacks_for_Ladies%2C_cheap%2C_choise%2C_braue_and_new_%28John_Dowland%29)."
+Dowland, John. "{{% resource_link "84ee37d3-aefd-42ae-978c-bd1155e49c00" "Fine Knacks for Ladies" %}}."
 
 
 {{< tdclose >}}
@@ -724,9 +724,9 @@ Gabrieli, Giovanni. "Sonata pian' e forte a 8, alla bassa." _Sacrae symphoniae._
 {{< tdopen >}}
 
 
-Gesualdo, Carlo. "[Moro, lasso](http://www2.cpdl.org/wiki/index.php/Moro,_lasso,_al_mio_duolo_%28Carlo_Gesualdo%29)."
+Gesualdo, Carlo. "{{% resource_link "3f7ab8cb-0735-443b-a874-33604fe9ae62" "Moro, lasso" %}}."
 
-Gabrieli, Giovanni. [_Sacrae symphoniae_](http://imslp.org/wiki/Sacrae_symphoniae_%28Gabrieli,_Giovanni%29).
+Gabrieli, Giovanni. {{% resource_link "4ddc9603-1b1e-48fb-a752-7f808bd60cd1" "_Sacrae symphoniae_" %}}.
 
 
 {{< tdclose >}}
@@ -755,13 +755,13 @@ Monteverdi, Claudio. _Vespro della Beata Vergine_. Archiv Produktion, 1990 (1974
 {{< tdopen >}}
 
 
-Caccini, Giulio. [_Le nuove musiche_](http://imslp.org/wiki/Le_nuove_musiche_%28Caccini,_Giulio%29).
+Caccini, Giulio. {{% resource_link "9a6f4e73-56c7-4a87-9259-367270a15c5a" "_Le nuove musiche_" %}}.
 
-Peri, Jacopo. [_Euridice_](http://imslp.org/wiki/Euridice_%28Peri,_Jacopo%29).
+Peri, Jacopo. {{% resource_link "a09768e7-4ac5-4a90-9704-1a42fa2fe556" "_Euridice_" %}}.
 
-Monteverdi, Claudio. [_L'Orfeo_](http://imslp.org/wiki/L%27Orfeo,_favola_in_musica,_SV_318_%28Monteverdi,_Claudio%29).
+Monteverdi, Claudio. {{% resource_link "339abe68-9115-4621-b776-29e4158d6c1c" "_L'Orfeo_" %}}.
 
-Monteverdi, Claudio. [_Vespro della Beata Vergine_](http://imslp.org/wiki/Vespro_della_Beata_Vergine_%28Monteverdi,_Claudio%29).
+Monteverdi, Claudio. {{% resource_link "dd5c8742-4254-4b12-ab7f-b542f2fc1007" "_Vespro della Beata Vergine_" %}}.
 
 
 {{< tdclose >}}
