@@ -119,7 +119,7 @@ Secular Monophony in the Middle Ages
 
 \[W&S\] pp. 34-46
 
-Danziger, Danny, and John Gillingham. "The Englishman's Castle." In _1215: The Year of the Magna Carta_. Touchstone, 2004, pp. 1-32. ISBN: 9780743257732. \[Preview with [Google Books](http://books.google.com/books?id=av1pjnpVRNAC&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false)\]
+Danziger, Danny, and John Gillingham. "The Englishman's Castle." In _1215: The Year of the Magna Carta_. Touchstone, 2004, pp. 1-32. ISBN: 9780743257732. \[Preview with {{% resource_link "78855ca5-3d7b-4af8-a9e8-1cb05c87714a" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -235,7 +235,7 @@ The End of the Trecento and The Rise of European Music
 *   Chapter 16, "English Music," "Fauxbourdon," pp. 118-9, and "Duns-taple," pp. 121-3.
 *   Chapter 17, "Music in Burgundy" (on Du Fay and Binchois), pp. 123-31.
 
-Cuthbert, Michael Scott. "Counting Our Losses." Excerpt from _Trecento Fragments_. PhD Thesis, Harvard University, 2006. ({{% resource_link 87b64865-c529-0b28-d137-b24cfac29110 "PDF" %}}) (The full dissertation is at [Trecento Fragments and Polyphony Beyond the Codex](https://www.diamm.ac.uk/documents/135/Cuthbert_diss.pdf) [(PDF)](https://www.diamm.ac.uk/documents/135/Cuthbert_diss.pdf))
+Cuthbert, Michael Scott. "Counting Our Losses." Excerpt from _Trecento Fragments_. PhD Thesis, Harvard University, 2006. ({{% resource_link 87b64865-c529-0b28-d137-b24cfac29110 "PDF" %}}) (The full dissertation is at {{% resource_link "ccbbf3fe-0044-40d9-b5fe-67a35747c732" "Trecento Fragments and Polyphony Beyond the Codex" %}} {{% resource_link "ccbbf3fe-0044-40d9-b5fe-67a35747c732" "(PDF)" %}})
 
 
 {{< tdclose >}}
