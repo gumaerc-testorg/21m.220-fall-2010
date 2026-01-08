@@ -103,9 +103,9 @@ Diversity and Development in Chant
 ({{% resource_link 749a815c-b4eb-6a7b-25f5-3eb41444dc7e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Byzantine ecphonetic notation. Greece, ca. 1100. Schøyen Collection MS 2033. ({{% resource_link "761f1716-275b-4a46-80b7-caf8ff75f11f" "JPG" %}})
+Byzantine ecphonetic notation. Greece, ca. 1100. Schøyen Collection MS 2033. ([JPG](http://www.schoyencollection.com/music-notation/7-4-byzatine-notation/ecophonetic-bible-ms-2033))
 
-Vedic numeric hand gesture music notation. India, 1583. Schøyen Collection 5292 ({{% resource_link "aa4adfeb-01fc-44ce-8608-86b75e4f3ebc" "JPG" %}})
+Vedic numeric hand gesture music notation. India, 1583. Schøyen Collection 5292 ([JPG](http://www.schoyencollection.com/music_files/ms5292.jpg))
 
 
 {{< tdclose >}}
@@ -281,7 +281,7 @@ Music in the Mid-Fifteenth Century 1440–1480
 {{< tdopen >}}
 Lecture slides ({{% resource_link a85af248-d2d8-ba36-5e2f-33fc3738dcda "PDF - 1.5 MB" %}})
 
-{{% resource_link "58c83424-a72d-43a6-819c-5cae8d408af2" "Notes on _In Hydraulis_" %}} by Timothy Dickey
+[Notes on _In Hydraulis_](http://www.allmusic.com/composition/in-hydraulis-motet-for-4-voices-mc0002386356) by Timothy Dickey
 
 
 {{< tdclose >}}
